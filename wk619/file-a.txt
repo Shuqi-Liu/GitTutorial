@@ -1,4 +1,4 @@
-this is file a
+this is file a, with local changes on line 1 and 3
 this change is for now
 local change
 remote change
